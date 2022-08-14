@@ -201,7 +201,7 @@ class HomePage extends StatelessWidget {
               child: Column(
                 children: const [
                   Text(
-                    'NO STORY Found',
+                    'NO story Found',
                     style: TextStyle(
                       fontSize: 40,
                       color: Colors.teal,
