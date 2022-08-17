@@ -45,7 +45,7 @@ class ChatPage extends StatelessWidget {
         // SizedBox(
         //   height: 2,
         //   child: Container(
-        //     color: Colors.grey[400],
+        //     color: Colors.grey[300],
         //   ),
         // ),
       ],
